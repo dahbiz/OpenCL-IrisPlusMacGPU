@@ -58,7 +58,7 @@ Below are the performance comparisons in matrix multiplication for different dev
 
 
 ## The Credits 🎬
-Big shoutout to **Zakaria Dahbi** for running these benchmarks and not getting distracted by instagram videos (well, maybe a little). All benchmarks were performed with a cup of tea (Moroccan Atay) in hand ☕ and curiosity ❤️.
+Big shoutout to **Z. Dahbi** for running these benchmarks and not getting distracted by instagram videos (well, maybe a little). All benchmarks were performed with a cup of tea (Moroccan Atay) in hand ☕ and curiosity ❤️.
 
 **Disclaimer:** No GPUs were harmed in the making of this benchmark. However, some neurons might have been fried due to excessive debugging!
 

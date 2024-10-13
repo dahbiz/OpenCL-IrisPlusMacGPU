@@ -56,7 +56,7 @@ Below are the performance comparisons in matrix multiplication for different dev
    - GPU 2: NVIDIA A100-SXM-64GB (CUDA)
 
 
-   ![Benchmark Plot: OpenCL GPU vs CUDA GPU](./plots/benchmark_plot_GPU_GPU.pdf)
+   ![Benchmark Plot: OpenCL GPU vs CUDA GPU](./plots/benchmark_plot_GPU_GPU.png)
    ![Benchmark Plot: HIGH QUALITY](./plots/benchmark_plot_GPU_GPU.pdf)
 
 

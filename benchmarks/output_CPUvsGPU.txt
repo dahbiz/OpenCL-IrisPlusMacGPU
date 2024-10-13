@@ -1,0 +1,111 @@
+CPU Time for size 100: 0.00110692 seconds
+GPU Time for size 100: 0.00146764 seconds
+
+CPU Time for size 200: 0.0117718 seconds
+GPU Time for size 200: 0.00472089 seconds
+
+CPU Time for size 300: 0.0404927 seconds
+GPU Time for size 300: 0.0131661 seconds
+
+CPU Time for size 400: 0.0957674 seconds
+GPU Time for size 400: 0.0324251 seconds
+
+CPU Time for size 500: 0.21436 seconds
+GPU Time for size 500: 0.0567899 seconds
+
+CPU Time for size 600: 0.334485 seconds
+GPU Time for size 600: 0.0963828 seconds
+
+CPU Time for size 700: 0.548392 seconds
+GPU Time for size 700: 0.136892 seconds
+
+CPU Time for size 800: 0.874714 seconds
+GPU Time for size 800: 0.280606 seconds
+
+CPU Time for size 900: 1.34053 seconds
+GPU Time for size 900: 0.35993 seconds
+
+CPU Time for size 1000: 1.81049 seconds
+GPU Time for size 1000: 0.457042 seconds
+
+CPU Time for size 1100: 2.55782 seconds
+GPU Time for size 1100: 0.591089 seconds
+
+CPU Time for size 1200: 3.22044 seconds
+GPU Time for size 1200: 0.77319 seconds
+
+CPU Time for size 1300: 4.93902 seconds
+GPU Time for size 1300: 0.828634 seconds
+
+CPU Time for size 1400: 5.27966 seconds
+GPU Time for size 1400: 1.19562 seconds
+
+CPU Time for size 1500: 7.94426 seconds
+GPU Time for size 1500: 1.35903 seconds
+
+CPU Time for size 1600: 15.3487 seconds
+GPU Time for size 1600: 1.04961 seconds
+
+CPU Time for size 1700: 20.3811 seconds
+GPU Time for size 1700: 1.26013 seconds
+
+CPU Time for size 1800: 28.2108 seconds
+GPU Time for size 1800: 1.45565 seconds
+
+CPU Time for size 1900: 38.0905 seconds
+GPU Time for size 1900: 1.70354 seconds
+
+CPU Time for size 2000: 39.199 seconds
+GPU Time for size 2000: 1.97344 seconds
+
+CPU Time for size 2100: 50.937 seconds
+GPU Time for size 2100: 2.24497 seconds
+
+CPU Time for size 2200: 58.1972 seconds
+GPU Time for size 2200: 2.6499 seconds
+
+CPU Time for size 2300: 113.665 seconds
+GPU Time for size 2300: 2.91665 seconds
+
+CPU Time for size 2400: 81.3159 seconds
+GPU Time for size 2400: 3.36585 seconds
+
+CPU Time for size 2500: 91.1255 seconds
+GPU Time for size 2500: 3.71761 seconds
+
+CPU Time for size 2600: 101.9 seconds
+GPU Time for size 2600: 4.23636 seconds
+
+CPU Time for size 2700: 122.171 seconds
+GPU Time for size 2700: 4.64742 seconds
+
+CPU Time for size 2800: 131.996 seconds
+GPU Time for size 2800: 5.2103 seconds
+
+CPU Time for size 2900: 148.316 seconds
+GPU Time for size 2900: 5.80478 seconds
+
+CPU Time for size 3000: 164.541 seconds
+GPU Time for size 3000: 6.44767 seconds
+
+CPU Time for size 3100: 184.314 seconds
+GPU Time for size 3100: 7.07478 seconds
+
+CPU Time for size 3200: 204.925 seconds
+GPU Time for size 3200: 7.80789 seconds
+
+CPU Time for size 3300: 225.979 seconds
+GPU Time for size 3300: 8.69758 seconds
+
+CPU Time for size 3400: 246.035 seconds
+GPU Time for size 3400: 9.5016 seconds
+
+CPU Time for size 3600: 309.027 seconds
+GPU Time for size 3600: 11.935 seconds
+
+CPU Time for size 3700: 252.041 seconds
+GPU Time for size 3700: 12.1583 seconds
+
+CPU Time for size 3800: 258.916 seconds
+GPU Time for size 3800: 13.2155 seconds
+

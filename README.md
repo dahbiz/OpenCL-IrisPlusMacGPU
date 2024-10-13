@@ -48,13 +48,16 @@ Below are the performance comparisons in matrix multiplication for different dev
    - CPU: Intel(R) Core(TM) i5-7360U @ 2.30GHz
    - GPU: Intel(R) Iris(TM) Plus Graphics 640
 
-   ![Benchmark Plot: OpenCL CPU vs GPU](./plots/benchmark_plot_CPU_GPU.pdf)
+   ![Benchmark Plot: OpenCL CPU vs GPU](./plots/benchmark_plot_CPU_GPU.png)
+   ![Benchmark Plot: HIGH QUALITY](./plots/benchmark_plot_CPU_GPU.pdf)
 
 2. **OpenCL GPU vs CUDA GPU**
    - GPU 1: Intel(R) Iris(TM) Plus Graphics 640 (OpenCL)
    - GPU 2: NVIDIA A100-SXM-64GB (CUDA)
 
+
    ![Benchmark Plot: OpenCL GPU vs CUDA GPU](./plots/benchmark_plot_GPU_GPU.pdf)
+   ![Benchmark Plot: HIGH QUALITY](./plots/benchmark_plot_GPU_GPU.pdf)
 
 
 ## The Credits 🎬

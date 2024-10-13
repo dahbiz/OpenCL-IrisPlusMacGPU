@@ -60,9 +60,9 @@ Below are the performance comparisons in matrix multiplication for different dev
    ![Benchmark Plot: HIGH QUALITY](./plots/benchmark_plot_GPU_GPU.pdf)
 
 
-## The Credits 🎬
-Big shoutout to **Z. Dahbi** for running these benchmarks and not getting distracted by instagram videos (well, maybe a little). All benchmarks were performed with a cup of tea (Moroccan Atay) in hand ☕ and curiosity ❤️.
+## Credits
+Thanks to me for running these benchmarks and not getting distracted by Barcolana water race (well, maybe a little). All benchmarks were performed with a cup of tea (Moroccan Atay) in hand ☕ and curiosity ❤️.
 
-**Disclaimer:** No GPUs were harmed in the making of this benchmark. However, some neurons might have been fried due to excessive debugging!
+**Disclaimer 2:** No GPUs were harmed in the making of this benchmark. However, some neurons might have been fried!
 
 Done purely for the fun of it. If these results make you giggle or question reality, mission accomplished! 😄
